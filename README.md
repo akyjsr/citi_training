@@ -1,2 +1,2 @@
 # citi_training
-training
+citi training
